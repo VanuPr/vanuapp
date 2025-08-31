@@ -1,9 +1,15 @@
-
 export const indianStates = [
     "Andhra Pradesh",
     "Arunachal Pradesh",
     "Assam",
+
+    // Bihar ke regions + Bihar
     "Bihar",
+    "East Bihar",
+    "West Bihar",
+    "North Bihar",
+    "South Bihar",
+
     "Chhattisgarh",
     "Goa",
     "Gujarat",
